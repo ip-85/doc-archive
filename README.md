@@ -1,8 +1,13 @@
-<h1>Document Archive Searcher</h1>
-<img src="main.png">
-<ul>
-<li>Баранік Артур Олександрович baranikartur1008@gmail.com</li>
-<li>Валигін Андрій Олександрович drewmelt132@gmail.com</li>
-<li>Тимофеєнко Павло Вікторович paveltimofeenko@gmail.com</li>
-<li>Васильев Георгій Зиновьевич Georgevasilyev2000gmail.com</li>
-</ul>
+
+# Document Archive Searcher
+<p align="center">
+  <img src="main.png"/>
+</p>
+
+### Команда
+ * Баранік Артур Олександрович [baranikartur1008@gmail.com](mailto:baranikartur1008@gmail.com)
+ * Валигін Андрій Олександрович [drewmelt132@gmail.com](mailto:drewmelt132@gmail.com)
+ * Тимофеєнко Павло Вікторович [paveltimofeenko@gmail.com](mailto:paveltimofeenko@gmail.com)
+ * Васильев Георгій Зиновьевич [georgevasilyev2000gmail.com](mailto:georgevasilyev2000gmail.com)
+
+
