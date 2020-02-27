@@ -35,3 +35,5 @@ Everything вміє шукати дані не тільки на локальн�
 
 ## Посилання
 + [[1]](https://uk.soringpcrepair.com/program-to-search-for-files-on-pc)
+
+# [IndexUA](https://github.com/ip-85/doc-archive/blob/master/Theory/Index.md)
