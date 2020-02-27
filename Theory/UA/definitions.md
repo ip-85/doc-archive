@@ -12,4 +12,4 @@
 ## [Розпізнавання іменованих утворень(NER)](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9)  
 * підзадача вилучення інформації, яка прагне знайти та класифікувати названі об’єкти в тексті на заздалегідь визначені категорії, такі як імена осіб, організацій, місця, вирази часу, кількості, грошових значень, відсотків тощо.
 
-# [IndexUA](https://github.com/ip-85/doc-archive/blob/master/docs/IndexUA.md)
+# [IndexUA](https://github.com/ip-85/doc-archive/blob/master/Theory/Index.md)
