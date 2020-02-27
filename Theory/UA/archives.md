@@ -21,4 +21,4 @@
  + https://studfile.net/preview/5550417/page:11/
  + https://uk.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9_%D0%B0%D1%80%D1%85%D1%96%D0%B2
 
-# [IndexUA](https://github.com/ip-85/doc-archive/blob/master/docs/IndexUA.md)
+# [IndexUA](https://github.com/ip-85/doc-archive/blob/master/Theory/Index.md)
