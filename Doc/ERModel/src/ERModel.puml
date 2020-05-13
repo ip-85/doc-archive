@@ -1,0 +1,21 @@
+@startuml
+
+entity Document{
+    name:
+}
+entity Connections
+
+entity Tag_Text {
+    text: 
+}
+entity Tag{
+    name:
+}
+
+
+Document --> Connections
+Connections <-- Tag_Text
+Tag_Text <-- Tag
+
+
+@enduml
